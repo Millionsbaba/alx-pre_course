@@ -1,1 +1,1 @@
-My first readme
+Wow coding is fun
